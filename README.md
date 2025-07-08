@@ -1,0 +1,1 @@
+This is a boilerplate using SvelteKit for launching up a SaaS project fast.
